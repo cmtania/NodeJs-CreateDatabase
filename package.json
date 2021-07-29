@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-createdatabase",
+  "version": "1.0.0",
+  "description": "Create database with table/s using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmtania/NodeJs-CreateDatabase.git"
+  },
+  "author": "christian.tania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmtania/NodeJs-CreateDatabase/issues"
+  },
+  "homepage": "https://github.com/cmtania/NodeJs-CreateDatabase#readme",
+  "dependencies": {
+    "msnodesqlv8": "^2.2.0",
+    "mssql": "^7.1.3"
+  }
+}
